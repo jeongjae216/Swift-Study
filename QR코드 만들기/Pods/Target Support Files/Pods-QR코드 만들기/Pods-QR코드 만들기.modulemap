@@ -1,0 +1,6 @@
+framework module Pods_QR_____________ {
+  umbrella header "Pods-QR코드 만들기-umbrella.h"
+
+  export *
+  module * { export * }
+}
